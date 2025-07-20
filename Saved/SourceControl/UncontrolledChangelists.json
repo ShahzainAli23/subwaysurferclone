@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/RoadAsphalt.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Levels/ShahzainLevel.umap",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_AO.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_BaseColor.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_Bump.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_Cavity.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_Displacement.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_Gloss.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_Normal.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_Roughness.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Assets/RoadMaterial/Asphalt_Road_th5mbefcw_4K_Specular.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Blueprints/MyCar.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Blueprints/CarController.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Blueprints/EndlessCarRunner.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Fab/Red_Car/red_car/Materials/initialShadingGroup.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Fab/Red_Car/red_car/StaticMeshes/red_car.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Fab/Red_Car/red_car/Textures/red_car_texture_0.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Fab/Red_Car/red_car/Textures/red_car_texture_1.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Fab/Red_Car/red_car/Textures/red_car_texture_2.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Blueprints/Move_IA.uasset",
+				"C:/Users/pc/OneDrive - Institute of Business Administration/Documents/Unreal Projects/SubwaySurfersClone/Content/Blueprints/MainCar.uasset"
+			]
+		}
+	]
+}
